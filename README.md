@@ -1,2 +1,9 @@
 # PandasPractice
-This repo demonstrates the path I took to learn Pandas in pursuit of becoming a data scientist
+This repo demonstrates the practice for each tutorial from this repo -> https://github.com/TirendazAcademy/PANDAS-TUTORIAL?tab=readme-ov-file 
+
+This the contents of each Tutorial:
+
+1)Introduction to the Pandas
+2)Indexing-Selection-Filtering in Pandas
+3)Important Methods in Pandas
+4)Arithmetic Operations in Pandas
